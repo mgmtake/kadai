@@ -7,6 +7,7 @@ imagesc(ORG); axis image; % 画像の表示
 
 によって画像を読み込み，原画像をそのままの画素数でグレースケールに変換し，表示した結果を図2-1に示す．
 
+![2_fig1](https://user-images.githubusercontent.com/35133431/35190390-a956ccac-fea3-11e7-9c94-076ef00630f5.png)
 
 図2-1
 
@@ -17,6 +18,7 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 
 2階調画像生成の結果を図2-2に示す．
 
+![2_fig2](https://user-images.githubusercontent.com/35133431/35190393-b9bc2f7e-fea3-11e7-83ca-ac856605c774.png)
 
 図2-2
 
@@ -30,6 +32,7 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 
 4階調画像生成の結果を図2-3に示す．
 
+![2_fig3](https://user-images.githubusercontent.com/35133431/35190394-bd84206c-fea3-11e7-86b2-1ebe0190d268.png)
 
 図2-3
 
@@ -39,6 +42,7 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 
 8階調画像生成の結果を図2-4に示す．
 
+![2_fig4](https://user-images.githubusercontent.com/35133431/35190396-d45fba76-fea3-11e7-9be9-3c0cf66c395f.png)
 
 図2-4
 
