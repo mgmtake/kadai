@@ -40,6 +40,7 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 
 
 
+
 8階調画像生成の結果を図2-4に示す．
 
 ![2_fig4](https://user-images.githubusercontent.com/35133431/35190396-d45fba76-fea3-11e7-9be9-3c0cf66c395f.png)
