@@ -7,7 +7,7 @@ imagesc(ORG); axis image; % 画像の表示
 
 によって画像を読み込み，原画像をそのままの画素数でグレースケールに変換し，表示した結果を図2-1に示す．
 
-![2_fig1](https://user-images.githubusercontent.com/35133431/35190390-a956ccac-fea3-11e7-9c94-076ef00630f5.png)
+![2_fig2](https://user-images.githubusercontent.com/35133431/35190390-a956ccac-fea3-11e7-9c94-076ef00630f5.png)
 
 図2-1
 
